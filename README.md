@@ -12,7 +12,7 @@ EMPLOYEE LOGIN FORM
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
-DataBase Screenshot:
+DataBase/Website Screenshot:
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/73120870/134769349-85e36eda-1bc5-4237-ab1d-e7ec9ba1315c.png)
 
