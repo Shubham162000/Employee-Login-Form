@@ -12,6 +12,12 @@
 
 DataBase Screenshot:
 
+![Screenshot (4)](https://user-images.githubusercontent.com/73120870/134769349-85e36eda-1bc5-4237-ab1d-e7ec9ba1315c.png)
+
+
 ![Screenshot (3)](https://user-images.githubusercontent.com/73120870/134769288-9a01eec8-712b-4b2b-81c4-4e06f34bb518.png)
+
+![Screenshot (1)](https://user-images.githubusercontent.com/73120870/134769320-31f9460f-5fbc-46fa-8dd0-9eef84a6668e.png)
+
 
 
